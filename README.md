@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chriskelly009
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning c#. 
-- 💞️ I’m looking to collaborate on developing my full stack 
+- 🌱 I’m currently learning front end web development. 
+- 💞️ I’m looking to collaborate on developing my front end 
 web development skills. 
 - 📫 How to reach me - chriskelly009@gmail.com. 
 
